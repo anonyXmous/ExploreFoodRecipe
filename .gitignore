@@ -1,0 +1,5 @@
+# Unzipped files
+grill-and-bbq*.csv
+
+# ipynb checkpoints
+.ipynb_checkpoints/
