@@ -1,0 +1,28 @@
+Recipe with 4 ingredients
+pepper salt oil olive 
+
+salt pepper garlic onion
+
+sugar oil garlic paprika
+
+With 5 ingredients
+salt pepper olive  oil garlic
+
+salt pepper garlic onion worcestershire_sauce
+
+sugar oil garlic paprika pepper
+
+with 6 ingre
+pepper salt oil olive garlic black
+
+salt pepper garlic onion worcestershire_sauce steak
+
+sugar oil garlic paprika pepper cilantro
+
+with 7
+pepper salt olive oil garlic black onion
+
+salt pepper garlic onion worcestershire_sauce steak brown_sugar
+
+sugar garlic paprika pepper cilantro olive oil
+ 
