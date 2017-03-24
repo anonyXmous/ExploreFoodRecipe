@@ -1,0 +1,12 @@
+[(0, '0.083*"olive oil" + 0.066*"garlic" + 0.051*"lemon" + 0.046*"black pepper"'), 
+(1, '0.071*"garlic" + 0.054*"soy sauce" + 0.040*"ginger" + 0.035*"cilantro"'), 
+(2, '0.062*"garlic" + 0.050*"salt" + 0.047*"black pepper" + 0.045*"onion"')]
+[(0, '0.083*"olive oil" + 0.066*"garlic" + 0.051*"lemon" + 0.046*"black pepper" + 0.044*"salt"'), 
+(1, '0.071*"garlic" + 0.054*"soy sauce" + 0.040*"ginger" + 0.035*"cilantro" + 0.028*"pepper"'), 
+(2, '0.062*"garlic" + 0.050*"salt" + 0.047*"black pepper" + 0.045*"onion" + 0.044*"brown sugar"')]
+[(0, '0.083*"olive oil" + 0.066*"garlic" + 0.051*"lemon" + 0.046*"black pepper" + 0.044*"salt" + 0.039*"chicken breast"'), 
+(1, '0.071*"garlic" + 0.054*"soy sauce" + 0.040*"ginger" + 0.035*"cilantro" + 0.028*"pepper" + 0.027*"lime juice"'), 
+(2, '0.062*"garlic" + 0.050*"salt" + 0.047*"black pepper" + 0.045*"onion" + 0.044*"brown sugar" + 0.039*"paprika"')]
+[(0, '0.083*"olive oil" + 0.066*"garlic" + 0.051*"lemon" + 0.046*"black pepper" + 0.044*"salt" + 0.039*"chicken breast" + 0.028*"pepper"'), 
+(1, '0.071*"garlic" + 0.054*"soy sauce" + 0.040*"ginger" + 0.035*"cilantro" + 0.028*"pepper" + 0.027*"lime juice" + 0.025*"salt"'), 
+(2, '0.062*"garlic" + 0.050*"salt" + 0.047*"black pepper" + 0.045*"onion" + 0.044*"brown sugar" + 0.039*"paprika" + 0.035*"pork"')]
