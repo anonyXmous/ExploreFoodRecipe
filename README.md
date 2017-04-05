@@ -19,3 +19,4 @@ Pending tasks:
 1) Exploartory Data Analysis (graphs, data insights)
 2) Website for searching new recipes based on some inputs
 3) Data story
+4) others?
