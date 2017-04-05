@@ -24,7 +24,8 @@ file_handler  = io.open('grill-and-bbq-url.csv', "w", encoding="utf-8")
 file_error = open('error.csv', 'w')
 
 # put header
-file_handler.write("{}\n".format("PAGE|URL|COUNT|AMOUNT|INGREDIENT"))
+#file_handler.write("{}\n".format("PAGE|URL|COUNT|AMOUNT|INGREDIENT"))
+#4/4/2017 this is not needed since file will be read by another python script to scrape ingredients
 
 for j in range(190,238):
     #print("Open recipe page #: ",str(j))
